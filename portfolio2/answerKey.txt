@@ -1,0 +1,61 @@
+> = correct answer
+
+1. What is a typeface
+the production of typefaces
+>the overall design of type characters
+the technique of arranging typefaces
+
+
+2. What is typography
+the adjustment of space between groups of letters
+a common design with a set of weights and style
+>the technique of arranging typefaces
+
+
+3. _______ are modified versions of font like italic, bold, condensed, and extended
+typefaces
+type family
+>type styles
+type terms
+
+4.________ is a whole related group of type styles based on a typeface that include outlines, shaded, and decorated.
+typefaces
+>type family
+type styles
+type terms
+
+5. Type is measured in ___.
+>points
+inches
+lines
+weight
+
+6. Type of fonts that have "little ears and feet"
+>serif
+san serif
+decorative
+script
+
+7. Type of fonts that DO NOT have "little ears and feet"
+serif
+>san serif
+decorative
+script
+
+8. This type of font can be hard to read and should be used sparingly
+serif
+san serif
+>decorative
+script
+
+9. This type of font most resembles handwriting sometimes slants to the right and is joined
+serif
+san serif
+decorative
+>script
+
+10. Who was America's first type designer
+David Carson
+Ed Fella 
+> William Caslon
+Claude Garamond
